@@ -1,0 +1,9 @@
+D:\projects\PortalSOS\PortalSOS.Dommain\bin\Debug\PortalSOS.Dommain.dll.config
+D:\projects\PortalSOS\PortalSOS.Dommain\bin\Debug\PortalSOS.Dommain.dll
+D:\projects\PortalSOS\PortalSOS.Dommain\bin\Debug\PortalSOS.Dommain.pdb
+D:\projects\PortalSOS\PortalSOS.Dommain\bin\Debug\EntityFramework.dll
+D:\projects\PortalSOS\PortalSOS.Dommain\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\PortalSOS\PortalSOS.Dommain\bin\Debug\EntityFramework.xml
+D:\projects\PortalSOS\PortalSOS.Dommain\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\PortalSOS\PortalSOS.Dommain\obj\Debug\PortalSOS.Dommain.dll
+D:\projects\PortalSOS\PortalSOS.Dommain\obj\Debug\PortalSOS.Dommain.pdb

@@ -1,0 +1,14 @@
+D:\projects\PortalSOS\PortalSOS.Repositories\bin\Debug\PortalSOS.Repositories.dll.config
+D:\projects\PortalSOS\PortalSOS.Repositories\bin\Debug\PortalSOS.Repositories.dll
+D:\projects\PortalSOS\PortalSOS.Repositories\bin\Debug\PortalSOS.Repositories.pdb
+D:\projects\PortalSOS\PortalSOS.Repositories\bin\Debug\EntityFramework.dll
+D:\projects\PortalSOS\PortalSOS.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\PortalSOS\PortalSOS.Repositories\bin\Debug\PortalSOS.Dommain.dll
+D:\projects\PortalSOS\PortalSOS.Repositories\bin\Debug\PortalSOS.Infra.dll
+D:\projects\PortalSOS\PortalSOS.Repositories\bin\Debug\PortalSOS.Dommain.pdb
+D:\projects\PortalSOS\PortalSOS.Repositories\bin\Debug\PortalSOS.Infra.pdb
+D:\projects\PortalSOS\PortalSOS.Repositories\bin\Debug\EntityFramework.xml
+D:\projects\PortalSOS\PortalSOS.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\PortalSOS\PortalSOS.Repositories\obj\Debug\PortalSOS.Repositories.csprojResolveAssemblyReference.cache
+D:\projects\PortalSOS\PortalSOS.Repositories\obj\Debug\PortalSOS.Repositories.dll
+D:\projects\PortalSOS\PortalSOS.Repositories\obj\Debug\PortalSOS.Repositories.pdb

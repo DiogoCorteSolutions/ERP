@@ -1,0 +1,8 @@
+D:\projects\PortalSOS\PortalSos.Infra.CrossCutting.Common\bin\Debug\PortalSos.Infra.CrossCutting.Common.dll
+D:\projects\PortalSOS\PortalSos.Infra.CrossCutting.Common\bin\Debug\PortalSos.Infra.CrossCutting.Common.pdb
+D:\projects\PortalSOS\PortalSos.Infra.CrossCutting.Common\bin\Debug\Correios.Net.dll
+D:\projects\PortalSOS\PortalSos.Infra.CrossCutting.Common\bin\Debug\Newtonsoft.Json.dll
+D:\projects\PortalSOS\PortalSos.Infra.CrossCutting.Common\bin\Debug\Correios.Net.pdb
+D:\projects\PortalSOS\PortalSos.Infra.CrossCutting.Common\bin\Debug\Newtonsoft.Json.xml
+D:\projects\PortalSOS\PortalSos.Infra.CrossCutting.Common\obj\Debug\PortalSos.Infra.CrossCutting.Common.dll
+D:\projects\PortalSOS\PortalSos.Infra.CrossCutting.Common\obj\Debug\PortalSos.Infra.CrossCutting.Common.pdb

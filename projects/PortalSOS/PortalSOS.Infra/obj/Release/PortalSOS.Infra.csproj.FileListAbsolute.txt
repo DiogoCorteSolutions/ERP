@@ -1,0 +1,12 @@
+D:\projects\PortalSOS\PortalSOS.Infra\bin\Release\PortalSOS.Infra.dll.config
+D:\projects\PortalSOS\PortalSOS.Infra\bin\Release\PortalSOS.Infra.dll
+D:\projects\PortalSOS\PortalSOS.Infra\bin\Release\PortalSOS.Infra.pdb
+D:\projects\PortalSOS\PortalSOS.Infra\bin\Release\EntityFramework.dll
+D:\projects\PortalSOS\PortalSOS.Infra\bin\Release\EntityFramework.SqlServer.dll
+D:\projects\PortalSOS\PortalSOS.Infra\bin\Release\PortalSOS.Dommain.dll
+D:\projects\PortalSOS\PortalSOS.Infra\bin\Release\PortalSOS.Dommain.pdb
+D:\projects\PortalSOS\PortalSOS.Infra\bin\Release\EntityFramework.xml
+D:\projects\PortalSOS\PortalSOS.Infra\bin\Release\EntityFramework.SqlServer.xml
+D:\projects\PortalSOS\PortalSOS.Infra\obj\Release\PortalSOS.Infra.csprojResolveAssemblyReference.cache
+D:\projects\PortalSOS\PortalSOS.Infra\obj\Release\PortalSOS.Infra.dll
+D:\projects\PortalSOS\PortalSOS.Infra\obj\Release\PortalSOS.Infra.pdb
